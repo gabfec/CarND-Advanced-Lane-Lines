@@ -132,6 +132,7 @@ Plotting these parameters is done with the `display_params()`, as the last step 
 After displaying the curvature and vehicle position, nothing remains to be done. The image field of the pipeline class contains the wanted output:
 
 ![alt text][image7]{height=300}
+
 ---
 
 ### Pipeline (video)
