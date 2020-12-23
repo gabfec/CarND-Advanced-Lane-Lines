@@ -1,4 +1,4 @@
-##** Advanced Lane Finding **
+## Advanced Lane Finding
 
 
 The steps of this project are the following:
