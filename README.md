@@ -59,7 +59,7 @@ An comparative example can be seen in the following picture:
 
 ![alt text][image1]{height=350}
 
-####2.  Threshold using color transforms and gradients
+#### 2. Threshold using color transforms and gradients
 
 For this step I used a combination of HLS colour threshold (using the S channel) and Sobel x-gradient threshold to generate a binary image. This can be found in function gradient_binary in pipeline.py.
 Here's an example of the output for this step.
